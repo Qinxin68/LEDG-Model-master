@@ -1,0 +1,9 @@
+name: EmoCau
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - pytorch=1.2.0
+  - pip:
+    - transformers==4.26.1
+
